@@ -1,0 +1,14 @@
+C:\Users\april\workspace\d26\StudentExercises\bin\Debug\netcoreapp2.1\StudentExercises.deps.json
+C:\Users\april\workspace\d26\StudentExercises\bin\Debug\netcoreapp2.1\StudentExercises.runtimeconfig.json
+C:\Users\april\workspace\d26\StudentExercises\bin\Debug\netcoreapp2.1\StudentExercises.runtimeconfig.dev.json
+C:\Users\april\workspace\d26\StudentExercises\bin\Debug\netcoreapp2.1\StudentExercises.dll
+C:\Users\april\workspace\d26\StudentExercises\bin\Debug\netcoreapp2.1\StudentExercises.pdb
+C:\Users\april\workspace\d26\StudentExercises\obj\Debug\netcoreapp2.1\StudentExercises.csprojAssemblyReference.cache
+C:\Users\april\workspace\d26\StudentExercises\obj\Debug\netcoreapp2.1\StudentExercises.csproj.CoreCompileInputs.cache
+C:\Users\april\workspace\d26\StudentExercises\obj\Debug\netcoreapp2.1\StudentExercises.RazorAssemblyInfo.cache
+C:\Users\april\workspace\d26\StudentExercises\obj\Debug\netcoreapp2.1\StudentExercises.RazorAssemblyInfo.cs
+C:\Users\april\workspace\d26\StudentExercises\obj\Debug\netcoreapp2.1\StudentExercises.AssemblyInfoInputs.cache
+C:\Users\april\workspace\d26\StudentExercises\obj\Debug\netcoreapp2.1\StudentExercises.AssemblyInfo.cs
+C:\Users\april\workspace\d26\StudentExercises\obj\Debug\netcoreapp2.1\StudentExercises.RazorTargetAssemblyInfo.cache
+C:\Users\april\workspace\d26\StudentExercises\obj\Debug\netcoreapp2.1\StudentExercises.dll
+C:\Users\april\workspace\d26\StudentExercises\obj\Debug\netcoreapp2.1\StudentExercises.pdb
